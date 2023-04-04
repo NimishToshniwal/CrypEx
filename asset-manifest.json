@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/CrypEx/static/js/main.78349d41.js",
+    "static/media/btc.png": "/CrypEx/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/Photo.jpg": "/CrypEx/static/media/Photo.1ac2c018041a75d0fc85.jpg",
+    "index.html": "/CrypEx/index.html",
+    "main.78349d41.js.map": "/CrypEx/static/js/main.78349d41.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.78349d41.js"
+  ]
+}
